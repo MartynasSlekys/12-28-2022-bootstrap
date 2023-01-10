@@ -1,0 +1,17 @@
+.slider-image {
+    height: 350px;
+    object-fit: cover;
+}
+.cards-image {
+    height: 350px;
+    object-fit: cover;
+}
+
+.button-menu {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 80px;
+    height: 80px;
+    z-index: 1000;
+}
